@@ -34,8 +34,32 @@ cout << 777 << endl;
 return 0;
 }
 ```
-> ![](:bulb:) Попробуйте реализовать на Python, Go и JavaScript.
+> :bulb: Попробуйте реализовать на Python, Go и JavaScript.
 
+На Python
+# This program prints Hello, world!
+```
+print('Hello, world!')
+На javascript
+```
+На Go
+```Go
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello world")
+}
+```
+На javascript
+
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
 
 ## Контакты разработчика(h2)
 *** 
