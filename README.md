@@ -19,9 +19,9 @@
 
 ```java
 class Main{
-public static void main(String[] args){
-System.out.println("777");
-}
+   public static void main(String[] args){
+      System.out.println("777");
+  }
 }
 ```
 На C++
@@ -30,8 +30,8 @@ System.out.println("777");
 #include <iostream>
 using namespace std;
 int main() {
-cout << 777 << endl;
-return 0;
+   cout << 777 << endl;
+   return 0;
 }
 ```
 > :bulb: Попробуйте реализовать на Python, Go и JavaScript.
@@ -39,7 +39,6 @@ return 0;
 На Python
 ```python
 print('Hello, world!')
-На javascript
 ```
 На Go
 ```Go
