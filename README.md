@@ -1,6 +1,7 @@
 # stepik-id-printer(h1) 
- 
-Это проект для выводa моего персонального идентификатора на _образовательной платформе_ [stepik.org](https://welcome.stepik.org/ru) .
+# скрипт username.sh выводит мое имя
+Это проект для выводa моего персонального идентификатора на _образовательной платформе_ [stepik.org](https://welcome.stepik.org/ru).
+
 
 ## Возможности(h2)
 
@@ -71,6 +72,7 @@ const func = (num) => {
 | Telegram    | [Ссылка][1] | 5 минут   |
 
 [1]:https://w.wiki/qYn
+
 
 
 
