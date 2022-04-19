@@ -1,1 +1,1 @@
-Nursulu Ospan
+echo "Nursulu Ospan"
